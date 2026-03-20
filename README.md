@@ -46,6 +46,15 @@ If you prefer to install via the raw `.shortcut` file:
 2. Download the latest `.shortcut` asset.
 3. Open the file to import it into the Shortcuts app.
 
+## ⚙️ Configuration
+
+This shortcut is highly customizable. Upon installation, you will be prompted to configure a few initial settings. 
+
+If you want to change these settings later:
+1. Open the **Shortcuts** app.
+2. Tap the `•••` icon on the **[Shortcut Name]** shortcut.
+3. Modify the values in the **Dictionary** (Config) action at the very top of the workflow.
+
 ## 📸 Preview
 
 | Setup | In Action | Result |
