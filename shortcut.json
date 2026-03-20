@@ -1,0 +1,7 @@
+{
+	  "name": "[Shortcut Name]",
+	    "version": "1.0.0",
+	      "release_notes": "Initial release.",
+	        "icloud_link": "[ICLOUD_LINK]",
+		  "release_url": "https://github.com/Shortquts/[RepoName]/releases/latest"
+}
