@@ -1,4 +1,4 @@
-v align="center">
+<div align="center">
   <!-- You can change this to a specific icon later if you want -->
     <img src="https://raw.githubusercontent.com/WalkxCode/dashboard-icons/main/svg/apple-shortcuts.svg" width="100" alt="Shortcuts Icon">
 
